@@ -1,0 +1,1001 @@
+User_Id,Location,Age
+1,"Yogyakarta, D.I. Yogyakarta",54
+2,"Malang, Jawa Timur",42
+3,"Cilegon, Banten",29
+4,"Bekasi, Jawa Barat",15
+5,"Bekasi, Jawa Barat",44
+6,"Surabaya, Jawa Timur",40
+7,"Jakarta, DKI Jakarta",54
+8,"Depok, Jawa Barat",27
+9,"Surabaya, Jawa Timur",25
+10,"Depok, Jawa Barat",29
+11,"Jakarta, DKI Jakarta",59
+12,"Solo, Jawa Tengah",32
+13,"Depok, Jawa Barat",54
+14,"Malang, Jawa Timur",37
+15,"Jakarta, DKI Jakarta",33
+16,"Sukabumi, Jawa Barat",18
+17,"Semarang, Jawa Tengah",60
+18,"Malang, Jawa Timur",18
+19,"Sukabumi, Jawa Barat",55
+20,"Bekasi, Jawa Barat",29
+21,"Bandung, Jawa Barat",17
+22,"Bekasi, Jawa Barat",15
+23,"Solo, Jawa Tengah",38
+24,"Yogyakarta, D.I. Yogyakarta",50
+25,"Purwokerto, Jawa Tengah",17
+26,"Bogor, Jawa Barat",35
+27,"Semarang, Jawa Tengah",36
+28,"Cilegon, Banten",44
+29,"Yogyakarta, D.I. Yogyakarta",33
+30,"Bandung, Jawa Barat",20
+31,"Solo, Jawa Tengah",42
+32,"Surabaya, Jawa Timur",53
+33,"Yogyakarta, D.I. Yogyakarta",27
+34,"Purwokerto, Jawa Tengah",47
+35,"Jakarta, DKI Jakarta",19
+36,"Solo, Jawa Tengah",56
+37,"Cirebon, Jawa Barat",57
+38,"Cirebon, Jawa Barat",30
+39,"Cilegon, Banten",20
+40,"Tangerang, Banten",20
+41,"Cirebon, Jawa Barat",58
+42,"Tangerang, Banten",23
+43,"Semarang, Jawa Tengah",55
+44,"Jakarta, DKI Jakarta",45
+45,"Bandung, Jawa Barat",20
+46,"Bogor, Jawa Barat",20
+47,"Jakarta, DKI Jakarta",36
+48,"Sukabumi, Jawa Barat",28
+49,"Bogor, Jawa Barat",44
+50,"Bandung, Jawa Barat",55
+51,"Semarang, Jawa Tengah",26
+52,"Sukabumi, Jawa Barat",41
+53,"Semarang, Jawa Tengah",33
+54,"Surabaya, Jawa Timur",44
+55,"Cirebon, Jawa Barat",43
+56,"Surabaya, Jawa Timur",57
+57,"Cilegon, Banten",43
+58,"Surabaya, Jawa Timur",51
+59,"Depok, Jawa Barat",54
+60,"Solo, Jawa Tengah",24
+61,"Sukabumi, Jawa Barat",57
+62,"Malang, Jawa Timur",40
+63,"Bandung, Jawa Barat",20
+64,"Bogor, Jawa Barat",49
+65,"Sukabumi, Jawa Barat",50
+66,"Tangerang, Banten",50
+67,"Semarang, Jawa Tengah",33
+68,"Cirebon, Jawa Barat",58
+69,"Cirebon, Jawa Barat",17
+70,"Depok, Jawa Barat",31
+71,"Yogyakarta, D.I. Yogyakarta",54
+72,"Bekasi, Jawa Barat",40
+73,"Cirebon, Jawa Barat",39
+74,"Purwokerto, Jawa Tengah",31
+75,"Semarang, Jawa Tengah",58
+76,"Surabaya, Jawa Timur",18
+77,"Surabaya, Jawa Timur",50
+78,"Cirebon, Jawa Barat",33
+79,"Sukabumi, Jawa Barat",35
+80,"Tangerang, Banten",56
+81,"Solo, Jawa Tengah",32
+82,"Depok, Jawa Barat",32
+83,"Surabaya, Jawa Timur",20
+84,"Malang, Jawa Timur",18
+85,"Cirebon, Jawa Barat",55
+86,"Solo, Jawa Tengah",25
+87,"Cirebon, Jawa Barat",16
+88,"Depok, Jawa Barat",28
+89,"Malang, Jawa Timur",42
+90,"Jakarta, DKI Jakarta",37
+91,"Semarang, Jawa Tengah",18
+92,"Solo, Jawa Tengah",40
+93,"Malang, Jawa Timur",24
+94,"Jakarta, DKI Jakarta",17
+95,"Depok, Jawa Barat",26
+96,"Cirebon, Jawa Barat",23
+97,"Sukabumi, Jawa Barat",44
+98,"Malang, Jawa Timur",59
+99,"Semarang, Jawa Tengah",28
+100,"Purwokerto, Jawa Tengah",25
+101,"Jakarta, DKI Jakarta",25
+102,"Bandung, Jawa Barat",21
+103,"Surabaya, Jawa Timur",42
+104,"Malang, Jawa Timur",34
+105,"Surabaya, Jawa Timur",58
+106,"Jakarta, DKI Jakarta",40
+107,"Bekasi, Jawa Barat",18
+108,"Bekasi, Jawa Barat",56
+109,"Jakarta, DKI Jakarta",20
+110,"Yogyakarta, D.I. Yogyakarta",56
+111,"Surabaya, Jawa Timur",52
+112,"Purwokerto, Jawa Tengah",54
+113,"Cilegon, Banten",51
+114,"Bekasi, Jawa Barat",39
+115,"Cirebon, Jawa Barat",57
+116,"Surabaya, Jawa Timur",28
+117,"Surabaya, Jawa Timur",39
+118,"Bekasi, Jawa Barat",25
+119,"Depok, Jawa Barat",36
+120,"Yogyakarta, D.I. Yogyakarta",37
+121,"Purwokerto, Jawa Tengah",24
+122,"Solo, Jawa Tengah",37
+123,"Bandung, Jawa Barat",51
+124,"Semarang, Jawa Tengah",28
+125,"Solo, Jawa Tengah",44
+126,"Yogyakarta, D.I. Yogyakarta",42
+127,"Semarang, Jawa Tengah",21
+128,"Yogyakarta, D.I. Yogyakarta",57
+129,"Cirebon, Jawa Barat",36
+130,"Bekasi, Jawa Barat",27
+131,"Yogyakarta, D.I. Yogyakarta",42
+132,"Cirebon, Jawa Barat",55
+133,"Malang, Jawa Timur",26
+134,"Bogor, Jawa Barat",30
+135,"Depok, Jawa Barat",46
+136,"Malang, Jawa Timur",46
+137,"Depok, Jawa Barat",59
+138,"Yogyakarta, D.I. Yogyakarta",40
+139,"Yogyakarta, D.I. Yogyakarta",37
+140,"Yogyakarta, D.I. Yogyakarta",44
+141,"Depok, Jawa Barat",32
+142,"Cilegon, Banten",53
+143,"Jakarta, DKI Jakarta",55
+144,"Cirebon, Jawa Barat",18
+145,"Sukabumi, Jawa Barat",24
+146,"Tangerang, Banten",17
+147,"Solo, Jawa Tengah",53
+148,"Surabaya, Jawa Timur",39
+149,"Bogor, Jawa Barat",36
+150,"Purwokerto, Jawa Tengah",59
+151,"Jakarta, DKI Jakarta",33
+152,"Jakarta, DKI Jakarta",46
+153,"Jakarta, DKI Jakarta",42
+154,"Bekasi, Jawa Barat",56
+155,"Bandung, Jawa Barat",25
+156,"Tangerang, Banten",59
+157,"Tangerang, Banten",39
+158,"Malang, Jawa Timur",44
+159,"Depok, Jawa Barat",45
+160,"Tangerang, Banten",17
+161,"Tangerang, Banten",47
+162,"Yogyakarta, D.I. Yogyakarta",56
+163,"Bogor, Jawa Barat",29
+164,"Bekasi, Jawa Barat",18
+165,"Solo, Jawa Tengah",16
+166,"Jakarta, DKI Jakarta",34
+167,"Sukabumi, Jawa Barat",35
+168,"Surabaya, Jawa Timur",35
+169,"Yogyakarta, D.I. Yogyakarta",54
+170,"Bekasi, Jawa Barat",28
+171,"Bekasi, Jawa Barat",28
+172,"Bekasi, Jawa Barat",38
+173,"Yogyakarta, D.I. Yogyakarta",48
+174,"Depok, Jawa Barat",18
+175,"Bekasi, Jawa Barat",36
+176,"Bekasi, Jawa Barat",29
+177,"Bekasi, Jawa Barat",33
+178,"Yogyakarta, D.I. Yogyakarta",51
+179,"Semarang, Jawa Tengah",30
+180,"Semarang, Jawa Tengah",26
+181,"Bandung, Jawa Barat",33
+182,"Depok, Jawa Barat",46
+183,"Jakarta, DKI Jakarta",31
+184,"Purwokerto, Jawa Tengah",22
+185,"Malang, Jawa Timur",59
+186,"Bogor, Jawa Barat",37
+187,"Surabaya, Jawa Timur",24
+188,"Solo, Jawa Tengah",31
+189,"Purwokerto, Jawa Tengah",34
+190,"Purwokerto, Jawa Tengah",33
+191,"Depok, Jawa Barat",57
+192,"Depok, Jawa Barat",56
+193,"Yogyakarta, D.I. Yogyakarta",42
+194,"Solo, Jawa Tengah",27
+195,"Semarang, Jawa Tengah",45
+196,"Tangerang, Banten",41
+197,"Jakarta, DKI Jakarta",60
+198,"Bogor, Jawa Barat",35
+199,"Jakarta, DKI Jakarta",56
+200,"Jakarta, DKI Jakarta",56
+201,"Bogor, Jawa Barat",32
+202,"Semarang, Jawa Tengah",50
+203,"Bekasi, Jawa Barat",22
+204,"Surabaya, Jawa Timur",56
+205,"Malang, Jawa Timur",49
+206,"Tangerang, Banten",56
+207,"Bogor, Jawa Barat",24
+208,"Bandung, Jawa Barat",45
+209,"Bandung, Jawa Barat",49
+210,"Solo, Jawa Tengah",17
+211,"Yogyakarta, D.I. Yogyakarta",47
+212,"Tangerang, Banten",47
+213,"Sukabumi, Jawa Barat",30
+214,"Bogor, Jawa Barat",56
+215,"Malang, Jawa Timur",21
+216,"Bogor, Jawa Barat",25
+217,"Tangerang, Banten",28
+218,"Purwokerto, Jawa Tengah",25
+219,"Bogor, Jawa Barat",24
+220,"Malang, Jawa Timur",50
+221,"Bandung, Jawa Barat",50
+222,"Sukabumi, Jawa Barat",22
+223,"Jakarta, DKI Jakarta",28
+224,"Surabaya, Jawa Timur",36
+225,"Tangerang, Banten",22
+226,"Purwokerto, Jawa Tengah",39
+227,"Tangerang, Banten",58
+228,"Purwokerto, Jawa Tengah",24
+229,"Semarang, Jawa Tengah",30
+230,"Bekasi, Jawa Barat",34
+231,"Jakarta, DKI Jakarta",46
+232,"Bandung, Jawa Barat",56
+233,"Tangerang, Banten",60
+234,"Bogor, Jawa Barat",44
+235,"Sukabumi, Jawa Barat",17
+236,"Semarang, Jawa Tengah",31
+237,"Jakarta, DKI Jakarta",35
+238,"Jakarta, DKI Jakarta",54
+239,"Yogyakarta, D.I. Yogyakarta",20
+240,"Depok, Jawa Barat",18
+241,"Bandung, Jawa Barat",55
+242,"Bogor, Jawa Barat",51
+243,"Cirebon, Jawa Barat",57
+244,"Jakarta, DKI Jakarta",18
+245,"Purwokerto, Jawa Tengah",15
+246,"Bekasi, Jawa Barat",50
+247,"Sukabumi, Jawa Barat",42
+248,"Sukabumi, Jawa Barat",57
+249,"Sukabumi, Jawa Barat",55
+250,"Bogor, Jawa Barat",19
+251,"Tangerang, Banten",18
+252,"Jakarta, DKI Jakarta",36
+253,"Purwokerto, Jawa Tengah",29
+254,"Semarang, Jawa Tengah",17
+255,"Jakarta, DKI Jakarta",23
+256,"Bandung, Jawa Barat",60
+257,"Bekasi, Jawa Barat",23
+258,"Solo, Jawa Tengah",51
+259,"Yogyakarta, D.I. Yogyakarta",30
+260,"Bekasi, Jawa Barat",56
+261,"Malang, Jawa Timur",60
+262,"Cilegon, Banten",15
+263,"Cilegon, Banten",42
+264,"Cilegon, Banten",53
+265,"Jakarta, DKI Jakarta",31
+266,"Cirebon, Jawa Barat",28
+267,"Solo, Jawa Tengah",31
+268,"Malang, Jawa Timur",17
+269,"Solo, Jawa Tengah",60
+270,"Malang, Jawa Timur",34
+271,"Bogor, Jawa Barat",52
+272,"Cirebon, Jawa Barat",51
+273,"Cirebon, Jawa Barat",49
+274,"Cirebon, Jawa Barat",55
+275,"Bogor, Jawa Barat",47
+276,"Depok, Jawa Barat",22
+277,"Tangerang, Banten",18
+278,"Sukabumi, Jawa Barat",33
+279,"Depok, Jawa Barat",20
+280,"Bandung, Jawa Barat",22
+281,"Sukabumi, Jawa Barat",35
+282,"Yogyakarta, D.I. Yogyakarta",60
+283,"Bogor, Jawa Barat",56
+284,"Jakarta, DKI Jakarta",54
+285,"Cilegon, Banten",17
+286,"Bandung, Jawa Barat",27
+287,"Bogor, Jawa Barat",57
+288,"Semarang, Jawa Tengah",45
+289,"Bekasi, Jawa Barat",18
+290,"Cilegon, Banten",19
+291,"Jakarta, DKI Jakarta",22
+292,"Sukabumi, Jawa Barat",52
+293,"Purwokerto, Jawa Tengah",53
+294,"Tangerang, Banten",26
+295,"Yogyakarta, D.I. Yogyakarta",30
+296,"Yogyakarta, D.I. Yogyakarta",55
+297,"Sukabumi, Jawa Barat",57
+298,"Bogor, Jawa Barat",47
+299,"Cirebon, Jawa Barat",27
+300,"Purwokerto, Jawa Tengah",23
+301,"Bekasi, Jawa Barat",32
+302,"Purwokerto, Jawa Tengah",32
+303,"Sukabumi, Jawa Barat",45
+304,"Semarang, Jawa Tengah",55
+305,"Semarang, Jawa Tengah",48
+306,"Depok, Jawa Barat",53
+307,"Semarang, Jawa Tengah",41
+308,"Tangerang, Banten",24
+309,"Cirebon, Jawa Barat",31
+310,"Cirebon, Jawa Barat",17
+311,"Bandung, Jawa Barat",18
+312,"Solo, Jawa Tengah",32
+313,"Depok, Jawa Barat",39
+314,"Semarang, Jawa Tengah",35
+315,"Purwokerto, Jawa Tengah",58
+316,"Sukabumi, Jawa Barat",52
+317,"Malang, Jawa Timur",58
+318,"Bekasi, Jawa Barat",50
+319,"Cilegon, Banten",47
+320,"Cirebon, Jawa Barat",40
+321,"Solo, Jawa Tengah",53
+322,"Sukabumi, Jawa Barat",18
+323,"Cirebon, Jawa Barat",49
+324,"Cilegon, Banten",19
+325,"Bekasi, Jawa Barat",57
+326,"Jakarta, DKI Jakarta",53
+327,"Surabaya, Jawa Timur",30
+328,"Cilegon, Banten",29
+329,"Cilegon, Banten",30
+330,"Cirebon, Jawa Barat",29
+331,"Surabaya, Jawa Timur",43
+332,"Semarang, Jawa Tengah",47
+333,"Bekasi, Jawa Barat",23
+334,"Bekasi, Jawa Barat",42
+335,"Purwokerto, Jawa Tengah",54
+336,"Tangerang, Banten",53
+337,"Sukabumi, Jawa Barat",54
+338,"Bandung, Jawa Barat",40
+339,"Depok, Jawa Barat",26
+340,"Bandung, Jawa Barat",51
+341,"Surabaya, Jawa Timur",38
+342,"Yogyakarta, D.I. Yogyakarta",48
+343,"Depok, Jawa Barat",51
+344,"Malang, Jawa Timur",47
+345,"Bogor, Jawa Barat",53
+346,"Bekasi, Jawa Barat",15
+347,"Sukabumi, Jawa Barat",45
+348,"Malang, Jawa Timur",46
+349,"Semarang, Jawa Tengah",44
+350,"Tangerang, Banten",43
+351,"Cirebon, Jawa Barat",30
+352,"Depok, Jawa Barat",16
+353,"Sukabumi, Jawa Barat",41
+354,"Cilegon, Banten",15
+355,"Malang, Jawa Timur",51
+356,"Cirebon, Jawa Barat",38
+357,"Purwokerto, Jawa Tengah",50
+358,"Purwokerto, Jawa Tengah",33
+359,"Cirebon, Jawa Barat",24
+360,"Bekasi, Jawa Barat",15
+361,"Surabaya, Jawa Timur",15
+362,"Bogor, Jawa Barat",25
+363,"Yogyakarta, D.I. Yogyakarta",51
+364,"Jakarta, DKI Jakarta",51
+365,"Bogor, Jawa Barat",20
+366,"Yogyakarta, D.I. Yogyakarta",17
+367,"Bandung, Jawa Barat",39
+368,"Malang, Jawa Timur",33
+369,"Purwokerto, Jawa Tengah",21
+370,"Tangerang, Banten",56
+371,"Tangerang, Banten",27
+372,"Sukabumi, Jawa Barat",40
+373,"Malang, Jawa Timur",52
+374,"Bogor, Jawa Barat",26
+375,"Semarang, Jawa Tengah",55
+376,"Depok, Jawa Barat",19
+377,"Solo, Jawa Tengah",39
+378,"Yogyakarta, D.I. Yogyakarta",15
+379,"Bogor, Jawa Barat",16
+380,"Bekasi, Jawa Barat",46
+381,"Bandung, Jawa Barat",41
+382,"Purwokerto, Jawa Tengah",31
+383,"Jakarta, DKI Jakarta",24
+384,"Surabaya, Jawa Timur",35
+385,"Surabaya, Jawa Timur",30
+386,"Yogyakarta, D.I. Yogyakarta",20
+387,"Surabaya, Jawa Timur",52
+388,"Tangerang, Banten",38
+389,"Bandung, Jawa Barat",47
+390,"Cirebon, Jawa Barat",34
+391,"Malang, Jawa Timur",26
+392,"Depok, Jawa Barat",17
+393,"Depok, Jawa Barat",20
+394,"Cilegon, Banten",60
+395,"Sukabumi, Jawa Barat",35
+396,"Bandung, Jawa Barat",39
+397,"Purwokerto, Jawa Tengah",37
+398,"Bekasi, Jawa Barat",58
+399,"Bandung, Jawa Barat",15
+400,"Bandung, Jawa Barat",33
+401,"Malang, Jawa Timur",44
+402,"Bogor, Jawa Barat",60
+403,"Surabaya, Jawa Timur",47
+404,"Surabaya, Jawa Timur",27
+405,"Depok, Jawa Barat",31
+406,"Tangerang, Banten",24
+407,"Bogor, Jawa Barat",45
+408,"Bandung, Jawa Barat",19
+409,"Sukabumi, Jawa Barat",57
+410,"Malang, Jawa Timur",58
+411,"Bandung, Jawa Barat",15
+412,"Surabaya, Jawa Timur",26
+413,"Bogor, Jawa Barat",24
+414,"Purwokerto, Jawa Tengah",21
+415,"Yogyakarta, D.I. Yogyakarta",58
+416,"Cilegon, Banten",45
+417,"Solo, Jawa Tengah",27
+418,"Bekasi, Jawa Barat",48
+419,"Bogor, Jawa Barat",57
+420,"Sukabumi, Jawa Barat",20
+421,"Tangerang, Banten",37
+422,"Bogor, Jawa Barat",36
+423,"Depok, Jawa Barat",42
+424,"Yogyakarta, D.I. Yogyakarta",53
+425,"Yogyakarta, D.I. Yogyakarta",55
+426,"Sukabumi, Jawa Barat",46
+427,"Sukabumi, Jawa Barat",48
+428,"Cilegon, Banten",56
+429,"Depok, Jawa Barat",30
+430,"Bogor, Jawa Barat",36
+431,"Bandung, Jawa Barat",53
+432,"Bogor, Jawa Barat",57
+433,"Yogyakarta, D.I. Yogyakarta",27
+434,"Sukabumi, Jawa Barat",31
+435,"Cilegon, Banten",30
+436,"Depok, Jawa Barat",41
+437,"Purwokerto, Jawa Tengah",18
+438,"Depok, Jawa Barat",20
+439,"Depok, Jawa Barat",42
+440,"Purwokerto, Jawa Tengah",56
+441,"Purwokerto, Jawa Tengah",47
+442,"Tangerang, Banten",24
+443,"Depok, Jawa Barat",22
+444,"Surabaya, Jawa Timur",30
+445,"Cirebon, Jawa Barat",48
+446,"Cirebon, Jawa Barat",19
+447,"Bogor, Jawa Barat",17
+448,"Purwokerto, Jawa Tengah",56
+449,"Malang, Jawa Timur",45
+450,"Sukabumi, Jawa Barat",45
+451,"Sukabumi, Jawa Barat",15
+452,"Jakarta, DKI Jakarta",30
+453,"Bogor, Jawa Barat",23
+454,"Sukabumi, Jawa Barat",19
+455,"Sukabumi, Jawa Barat",33
+456,"Solo, Jawa Tengah",40
+457,"Cirebon, Jawa Barat",60
+458,"Malang, Jawa Timur",48
+459,"Malang, Jawa Timur",59
+460,"Cilegon, Banten",40
+461,"Bandung, Jawa Barat",57
+462,"Surabaya, Jawa Timur",54
+463,"Cirebon, Jawa Barat",54
+464,"Bandung, Jawa Barat",25
+465,"Sukabumi, Jawa Barat",48
+466,"Sukabumi, Jawa Barat",55
+467,"Tangerang, Banten",15
+468,"Sukabumi, Jawa Barat",53
+469,"Purwokerto, Jawa Tengah",43
+470,"Solo, Jawa Tengah",27
+471,"Jakarta, DKI Jakarta",43
+472,"Yogyakarta, D.I. Yogyakarta",16
+473,"Cirebon, Jawa Barat",21
+474,"Yogyakarta, D.I. Yogyakarta",59
+475,"Tangerang, Banten",58
+476,"Bogor, Jawa Barat",59
+477,"Cilegon, Banten",31
+478,"Semarang, Jawa Tengah",16
+479,"Surabaya, Jawa Timur",25
+480,"Bogor, Jawa Barat",24
+481,"Bogor, Jawa Barat",54
+482,"Semarang, Jawa Tengah",25
+483,"Yogyakarta, D.I. Yogyakarta",49
+484,"Depok, Jawa Barat",24
+485,"Depok, Jawa Barat",19
+486,"Cirebon, Jawa Barat",19
+487,"Surabaya, Jawa Timur",31
+488,"Malang, Jawa Timur",33
+489,"Sukabumi, Jawa Barat",33
+490,"Purwokerto, Jawa Tengah",15
+491,"Bekasi, Jawa Barat",45
+492,"Cilegon, Banten",33
+493,"Depok, Jawa Barat",41
+494,"Solo, Jawa Tengah",47
+495,"Tangerang, Banten",31
+496,"Cilegon, Banten",25
+497,"Cirebon, Jawa Barat",35
+498,"Bekasi, Jawa Barat",60
+499,"Malang, Jawa Timur",27
+500,"Yogyakarta, D.I. Yogyakarta",41
+501,"Jakarta, DKI Jakarta",15
+502,"Cilegon, Banten",39
+503,"Cilegon, Banten",25
+504,"Malang, Jawa Timur",22
+505,"Bogor, Jawa Barat",27
+506,"Jakarta, DKI Jakarta",53
+507,"Bekasi, Jawa Barat",42
+508,"Bandung, Jawa Barat",53
+509,"Depok, Jawa Barat",21
+510,"Purwokerto, Jawa Tengah",48
+511,"Bandung, Jawa Barat",33
+512,"Jakarta, DKI Jakarta",46
+513,"Semarang, Jawa Tengah",53
+514,"Bandung, Jawa Barat",51
+515,"Solo, Jawa Tengah",43
+516,"Semarang, Jawa Tengah",50
+517,"Yogyakarta, D.I. Yogyakarta",43
+518,"Sukabumi, Jawa Barat",42
+519,"Cirebon, Jawa Barat",55
+520,"Bandung, Jawa Barat",45
+521,"Cilegon, Banten",56
+522,"Cilegon, Banten",34
+523,"Surabaya, Jawa Timur",15
+524,"Surabaya, Jawa Timur",16
+525,"Jakarta, DKI Jakarta",51
+526,"Malang, Jawa Timur",22
+527,"Jakarta, DKI Jakarta",59
+528,"Cilegon, Banten",44
+529,"Depok, Jawa Barat",49
+530,"Tangerang, Banten",44
+531,"Bekasi, Jawa Barat",26
+532,"Cilegon, Banten",34
+533,"Surabaya, Jawa Timur",42
+534,"Tangerang, Banten",29
+535,"Cilegon, Banten",60
+536,"Semarang, Jawa Tengah",34
+537,"Depok, Jawa Barat",40
+538,"Yogyakarta, D.I. Yogyakarta",38
+539,"Depok, Jawa Barat",26
+540,"Surabaya, Jawa Timur",16
+541,"Sukabumi, Jawa Barat",49
+542,"Malang, Jawa Timur",43
+543,"Yogyakarta, D.I. Yogyakarta",21
+544,"Semarang, Jawa Tengah",41
+545,"Jakarta, DKI Jakarta",28
+546,"Bandung, Jawa Barat",20
+547,"Sukabumi, Jawa Barat",17
+548,"Bandung, Jawa Barat",44
+549,"Yogyakarta, D.I. Yogyakarta",21
+550,"Jakarta, DKI Jakarta",41
+551,"Purwokerto, Jawa Tengah",56
+552,"Surabaya, Jawa Timur",24
+553,"Malang, Jawa Timur",35
+554,"Cirebon, Jawa Barat",55
+555,"Tangerang, Banten",24
+556,"Bogor, Jawa Barat",60
+557,"Jakarta, DKI Jakarta",46
+558,"Purwokerto, Jawa Tengah",24
+559,"Sukabumi, Jawa Barat",24
+560,"Cirebon, Jawa Barat",58
+561,"Cirebon, Jawa Barat",42
+562,"Jakarta, DKI Jakarta",36
+563,"Tangerang, Banten",19
+564,"Bogor, Jawa Barat",19
+565,"Solo, Jawa Tengah",32
+566,"Solo, Jawa Tengah",15
+567,"Cirebon, Jawa Barat",58
+568,"Tangerang, Banten",51
+569,"Tangerang, Banten",56
+570,"Solo, Jawa Tengah",39
+571,"Tangerang, Banten",28
+572,"Surabaya, Jawa Timur",29
+573,"Bekasi, Jawa Barat",49
+574,"Sukabumi, Jawa Barat",27
+575,"Surabaya, Jawa Timur",49
+576,"Bogor, Jawa Barat",33
+577,"Malang, Jawa Timur",27
+578,"Purwokerto, Jawa Tengah",40
+579,"Depok, Jawa Barat",31
+580,"Depok, Jawa Barat",34
+581,"Sukabumi, Jawa Barat",42
+582,"Depok, Jawa Barat",39
+583,"Surabaya, Jawa Timur",48
+584,"Purwokerto, Jawa Tengah",26
+585,"Cilegon, Banten",45
+586,"Cirebon, Jawa Barat",46
+587,"Cirebon, Jawa Barat",23
+588,"Bandung, Jawa Barat",24
+589,"Cilegon, Banten",56
+590,"Cilegon, Banten",23
+591,"Jakarta, DKI Jakarta",50
+592,"Solo, Jawa Tengah",57
+593,"Cirebon, Jawa Barat",28
+594,"Purwokerto, Jawa Tengah",40
+595,"Malang, Jawa Timur",37
+596,"Depok, Jawa Barat",55
+597,"Sukabumi, Jawa Barat",33
+598,"Bogor, Jawa Barat",49
+599,"Surabaya, Jawa Timur",43
+600,"Sukabumi, Jawa Barat",44
+601,"Cirebon, Jawa Barat",16
+602,"Yogyakarta, D.I. Yogyakarta",36
+603,"Yogyakarta, D.I. Yogyakarta",59
+604,"Depok, Jawa Barat",24
+605,"Depok, Jawa Barat",20
+606,"Cirebon, Jawa Barat",20
+607,"Cirebon, Jawa Barat",42
+608,"Semarang, Jawa Tengah",56
+609,"Bekasi, Jawa Barat",26
+610,"Bandung, Jawa Barat",33
+611,"Solo, Jawa Tengah",41
+612,"Cirebon, Jawa Barat",56
+613,"Surabaya, Jawa Timur",16
+614,"Bogor, Jawa Barat",16
+615,"Cirebon, Jawa Barat",39
+616,"Solo, Jawa Tengah",54
+617,"Depok, Jawa Barat",48
+618,"Yogyakarta, D.I. Yogyakarta",50
+619,"Purwokerto, Jawa Tengah",55
+620,"Purwokerto, Jawa Tengah",25
+621,"Bekasi, Jawa Barat",57
+622,"Cirebon, Jawa Barat",38
+623,"Cilegon, Banten",41
+624,"Yogyakarta, D.I. Yogyakarta",58
+625,"Cirebon, Jawa Barat",38
+626,"Surabaya, Jawa Timur",44
+627,"Malang, Jawa Timur",37
+628,"Solo, Jawa Tengah",42
+629,"Surabaya, Jawa Timur",23
+630,"Bandung, Jawa Barat",49
+631,"Semarang, Jawa Tengah",50
+632,"Depok, Jawa Barat",27
+633,"Jakarta, DKI Jakarta",54
+634,"Bandung, Jawa Barat",45
+635,"Jakarta, DKI Jakarta",42
+636,"Purwokerto, Jawa Tengah",46
+637,"Bandung, Jawa Barat",57
+638,"Depok, Jawa Barat",28
+639,"Malang, Jawa Timur",21
+640,"Bekasi, Jawa Barat",57
+641,"Bogor, Jawa Barat",43
+642,"Semarang, Jawa Tengah",58
+643,"Cilegon, Banten",21
+644,"Bogor, Jawa Barat",37
+645,"Tangerang, Banten",58
+646,"Purwokerto, Jawa Tengah",37
+647,"Tangerang, Banten",23
+648,"Bandung, Jawa Barat",42
+649,"Sukabumi, Jawa Barat",27
+650,"Bogor, Jawa Barat",50
+651,"Sukabumi, Jawa Barat",25
+652,"Bogor, Jawa Barat",29
+653,"Semarang, Jawa Tengah",44
+654,"Bekasi, Jawa Barat",41
+655,"Bandung, Jawa Barat",19
+656,"Cilegon, Banten",40
+657,"Bogor, Jawa Barat",56
+658,"Cirebon, Jawa Barat",30
+659,"Purwokerto, Jawa Tengah",18
+660,"Cirebon, Jawa Barat",24
+661,"Tangerang, Banten",34
+662,"Jakarta, DKI Jakarta",42
+663,"Jakarta, DKI Jakarta",38
+664,"Tangerang, Banten",49
+665,"Bekasi, Jawa Barat",20
+666,"Jakarta, DKI Jakarta",55
+667,"Cilegon, Banten",18
+668,"Cirebon, Jawa Barat",46
+669,"Cirebon, Jawa Barat",42
+670,"Surabaya, Jawa Timur",50
+671,"Cirebon, Jawa Barat",38
+672,"Bogor, Jawa Barat",16
+673,"Depok, Jawa Barat",56
+674,"Purwokerto, Jawa Tengah",50
+675,"Cilegon, Banten",16
+676,"Semarang, Jawa Tengah",24
+677,"Cilegon, Banten",32
+678,"Bogor, Jawa Barat",50
+679,"Yogyakarta, D.I. Yogyakarta",22
+680,"Cilegon, Banten",21
+681,"Yogyakarta, D.I. Yogyakarta",58
+682,"Solo, Jawa Tengah",47
+683,"Yogyakarta, D.I. Yogyakarta",23
+684,"Purwokerto, Jawa Tengah",17
+685,"Cirebon, Jawa Barat",54
+686,"Bandung, Jawa Barat",15
+687,"Sukabumi, Jawa Barat",32
+688,"Malang, Jawa Timur",38
+689,"Surabaya, Jawa Timur",55
+690,"Purwokerto, Jawa Tengah",49
+691,"Depok, Jawa Barat",16
+692,"Semarang, Jawa Tengah",57
+693,"Depok, Jawa Barat",16
+694,"Bekasi, Jawa Barat",33
+695,"Bandung, Jawa Barat",47
+696,"Bogor, Jawa Barat",37
+697,"Bekasi, Jawa Barat",52
+698,"Jakarta, DKI Jakarta",51
+699,"Bandung, Jawa Barat",15
+700,"Bogor, Jawa Barat",55
+701,"Cilegon, Banten",53
+702,"Depok, Jawa Barat",37
+703,"Semarang, Jawa Tengah",16
+704,"Cilegon, Banten",40
+705,"Solo, Jawa Tengah",36
+706,"Tangerang, Banten",58
+707,"Bandung, Jawa Barat",15
+708,"Tangerang, Banten",20
+709,"Bekasi, Jawa Barat",28
+710,"Bandung, Jawa Barat",20
+711,"Jakarta, DKI Jakarta",49
+712,"Malang, Jawa Timur",19
+713,"Cilegon, Banten",40
+714,"Jakarta, DKI Jakarta",30
+715,"Bandung, Jawa Barat",20
+716,"Sukabumi, Jawa Barat",17
+717,"Bandung, Jawa Barat",47
+718,"Depok, Jawa Barat",47
+719,"Malang, Jawa Timur",56
+720,"Surabaya, Jawa Timur",18
+721,"Cilegon, Banten",25
+722,"Bandung, Jawa Barat",16
+723,"Purwokerto, Jawa Tengah",40
+724,"Malang, Jawa Timur",42
+725,"Bandung, Jawa Barat",26
+726,"Depok, Jawa Barat",48
+727,"Bogor, Jawa Barat",49
+728,"Solo, Jawa Tengah",26
+729,"Solo, Jawa Tengah",16
+730,"Sukabumi, Jawa Barat",57
+731,"Semarang, Jawa Tengah",28
+732,"Tangerang, Banten",22
+733,"Solo, Jawa Tengah",41
+734,"Sukabumi, Jawa Barat",58
+735,"Bogor, Jawa Barat",19
+736,"Bandung, Jawa Barat",56
+737,"Surabaya, Jawa Timur",17
+738,"Purwokerto, Jawa Tengah",59
+739,"Cirebon, Jawa Barat",20
+740,"Sukabumi, Jawa Barat",41
+741,"Sukabumi, Jawa Barat",39
+742,"Malang, Jawa Timur",41
+743,"Malang, Jawa Timur",56
+744,"Cirebon, Jawa Barat",57
+745,"Cilegon, Banten",19
+746,"Bandung, Jawa Barat",36
+747,"Jakarta, DKI Jakarta",26
+748,"Sukabumi, Jawa Barat",51
+749,"Bogor, Jawa Barat",19
+750,"Tangerang, Banten",17
+751,"Surabaya, Jawa Timur",20
+752,"Malang, Jawa Timur",17
+753,"Cirebon, Jawa Barat",23
+754,"Tangerang, Banten",34
+755,"Purwokerto, Jawa Tengah",16
+756,"Jakarta, DKI Jakarta",40
+757,"Semarang, Jawa Tengah",24
+758,"Bandung, Jawa Barat",31
+759,"Bekasi, Jawa Barat",42
+760,"Solo, Jawa Tengah",53
+761,"Bandung, Jawa Barat",47
+762,"Malang, Jawa Timur",38
+763,"Semarang, Jawa Tengah",54
+764,"Tangerang, Banten",15
+765,"Malang, Jawa Timur",49
+766,"Solo, Jawa Tengah",30
+767,"Semarang, Jawa Tengah",22
+768,"Cirebon, Jawa Barat",28
+769,"Tangerang, Banten",52
+770,"Yogyakarta, D.I. Yogyakarta",35
+771,"Tangerang, Banten",35
+772,"Solo, Jawa Tengah",58
+773,"Cirebon, Jawa Barat",42
+774,"Semarang, Jawa Tengah",50
+775,"Cilegon, Banten",54
+776,"Cirebon, Jawa Barat",22
+777,"Bekasi, Jawa Barat",42
+778,"Semarang, Jawa Tengah",30
+779,"Sukabumi, Jawa Barat",42
+780,"Cilegon, Banten",18
+781,"Sukabumi, Jawa Barat",58
+782,"Solo, Jawa Tengah",24
+783,"Cilegon, Banten",46
+784,"Jakarta, DKI Jakarta",50
+785,"Bekasi, Jawa Barat",30
+786,"Tangerang, Banten",49
+787,"Surabaya, Jawa Timur",37
+788,"Tangerang, Banten",19
+789,"Cirebon, Jawa Barat",44
+790,"Semarang, Jawa Tengah",32
+791,"Sukabumi, Jawa Barat",20
+792,"Bogor, Jawa Barat",27
+793,"Bogor, Jawa Barat",22
+794,"Surabaya, Jawa Timur",43
+795,"Solo, Jawa Tengah",45
+796,"Surabaya, Jawa Timur",20
+797,"Jakarta, DKI Jakarta",24
+798,"Bandung, Jawa Barat",36
+799,"Surabaya, Jawa Timur",20
+800,"Surabaya, Jawa Timur",57
+801,"Surabaya, Jawa Timur",32
+802,"Depok, Jawa Barat",48
+803,"Cirebon, Jawa Barat",52
+804,"Bandung, Jawa Barat",54
+805,"Solo, Jawa Tengah",48
+806,"Bekasi, Jawa Barat",49
+807,"Purwokerto, Jawa Tengah",51
+808,"Bekasi, Jawa Barat",27
+809,"Sukabumi, Jawa Barat",38
+810,"Semarang, Jawa Tengah",52
+811,"Tangerang, Banten",51
+812,"Bogor, Jawa Barat",46
+813,"Bekasi, Jawa Barat",52
+814,"Cirebon, Jawa Barat",30
+815,"Bandung, Jawa Barat",18
+816,"Bandung, Jawa Barat",19
+817,"Solo, Jawa Tengah",30
+818,"Purwokerto, Jawa Tengah",51
+819,"Semarang, Jawa Tengah",50
+820,"Surabaya, Jawa Timur",60
+821,"Bekasi, Jawa Barat",23
+822,"Bekasi, Jawa Barat",33
+823,"Bekasi, Jawa Barat",16
+824,"Bogor, Jawa Barat",24
+825,"Yogyakarta, D.I. Yogyakarta",17
+826,"Bogor, Jawa Barat",30
+827,"Jakarta, DKI Jakarta",20
+828,"Solo, Jawa Tengah",19
+829,"Purwokerto, Jawa Tengah",47
+830,"Cirebon, Jawa Barat",40
+831,"Malang, Jawa Timur",35
+832,"Jakarta, DKI Jakarta",46
+833,"Tangerang, Banten",31
+834,"Purwokerto, Jawa Tengah",46
+835,"Yogyakarta, D.I. Yogyakarta",16
+836,"Cilegon, Banten",41
+837,"Malang, Jawa Timur",51
+838,"Cilegon, Banten",60
+839,"Malang, Jawa Timur",17
+840,"Bekasi, Jawa Barat",38
+841,"Depok, Jawa Barat",16
+842,"Semarang, Jawa Tengah",49
+843,"Sukabumi, Jawa Barat",24
+844,"Malang, Jawa Timur",26
+845,"Tangerang, Banten",46
+846,"Jakarta, DKI Jakarta",40
+847,"Cirebon, Jawa Barat",55
+848,"Tangerang, Banten",23
+849,"Semarang, Jawa Tengah",30
+850,"Purwokerto, Jawa Tengah",18
+851,"Bandung, Jawa Barat",22
+852,"Tangerang, Banten",49
+853,"Surabaya, Jawa Timur",55
+854,"Semarang, Jawa Tengah",58
+855,"Surabaya, Jawa Timur",22
+856,"Cirebon, Jawa Barat",50
+857,"Cilegon, Banten",56
+858,"Yogyakarta, D.I. Yogyakarta",31
+859,"Bekasi, Jawa Barat",38
+860,"Sukabumi, Jawa Barat",36
+861,"Bekasi, Jawa Barat",23
+862,"Sukabumi, Jawa Barat",43
+863,"Tangerang, Banten",47
+864,"Cilegon, Banten",16
+865,"Sukabumi, Jawa Barat",28
+866,"Jakarta, DKI Jakarta",37
+867,"Purwokerto, Jawa Tengah",24
+868,"Semarang, Jawa Tengah",43
+869,"Tangerang, Banten",37
+870,"Tangerang, Banten",25
+871,"Surabaya, Jawa Timur",17
+872,"Tangerang, Banten",29
+873,"Bekasi, Jawa Barat",16
+874,"Bandung, Jawa Barat",40
+875,"Cilegon, Banten",46
+876,"Jakarta, DKI Jakarta",55
+877,"Malang, Jawa Timur",47
+878,"Depok, Jawa Barat",45
+879,"Yogyakarta, D.I. Yogyakarta",31
+880,"Cirebon, Jawa Barat",26
+881,"Tangerang, Banten",58
+882,"Tangerang, Banten",25
+883,"Surabaya, Jawa Timur",43
+884,"Depok, Jawa Barat",60
+885,"Purwokerto, Jawa Tengah",52
+886,"Tangerang, Banten",21
+887,"Solo, Jawa Tengah",17
+888,"Cirebon, Jawa Barat",23
+889,"Tangerang, Banten",47
+890,"Tangerang, Banten",34
+891,"Tangerang, Banten",23
+892,"Bogor, Jawa Barat",29
+893,"Semarang, Jawa Tengah",21
+894,"Jakarta, DKI Jakarta",58
+895,"Solo, Jawa Tengah",20
+896,"Cilegon, Banten",53
+897,"Cilegon, Banten",25
+898,"Purwokerto, Jawa Tengah",30
+899,"Semarang, Jawa Tengah",32
+900,"Tangerang, Banten",49
+901,"Malang, Jawa Timur",27
+902,"Bandung, Jawa Barat",40
+903,"Solo, Jawa Tengah",16
+904,"Malang, Jawa Timur",37
+905,"Sukabumi, Jawa Barat",46
+906,"Surabaya, Jawa Timur",39
+907,"Purwokerto, Jawa Tengah",31
+908,"Malang, Jawa Timur",15
+909,"Semarang, Jawa Tengah",47
+910,"Purwokerto, Jawa Tengah",58
+911,"Jakarta, DKI Jakarta",48
+912,"Solo, Jawa Tengah",55
+913,"Malang, Jawa Timur",47
+914,"Jakarta, DKI Jakarta",57
+915,"Yogyakarta, D.I. Yogyakarta",60
+916,"Bekasi, Jawa Barat",48
+917,"Bogor, Jawa Barat",40
+918,"Cilegon, Banten",60
+919,"Surabaya, Jawa Timur",29
+920,"Surabaya, Jawa Timur",56
+921,"Solo, Jawa Tengah",35
+922,"Yogyakarta, D.I. Yogyakarta",52
+923,"Tangerang, Banten",25
+924,"Bogor, Jawa Barat",43
+925,"Tangerang, Banten",36
+926,"Bandung, Jawa Barat",33
+927,"Bekasi, Jawa Barat",40
+928,"Yogyakarta, D.I. Yogyakarta",46
+929,"Bogor, Jawa Barat",54
+930,"Solo, Jawa Tengah",33
+931,"Surabaya, Jawa Timur",55
+932,"Jakarta, DKI Jakarta",38
+933,"Bogor, Jawa Barat",60
+934,"Tangerang, Banten",60
+935,"Sukabumi, Jawa Barat",27
+936,"Sukabumi, Jawa Barat",55
+937,"Bogor, Jawa Barat",52
+938,"Surabaya, Jawa Timur",39
+939,"Bogor, Jawa Barat",47
+940,"Cirebon, Jawa Barat",55
+941,"Jakarta, DKI Jakarta",20
+942,"Cilegon, Banten",34
+943,"Cilegon, Banten",31
+944,"Semarang, Jawa Tengah",37
+945,"Bogor, Jawa Barat",54
+946,"Solo, Jawa Tengah",34
+947,"Sukabumi, Jawa Barat",58
+948,"Jakarta, DKI Jakarta",26
+949,"Sukabumi, Jawa Barat",36
+950,"Jakarta, DKI Jakarta",58
+951,"Tangerang, Banten",15
+952,"Yogyakarta, D.I. Yogyakarta",43
+953,"Surabaya, Jawa Timur",59
+954,"Yogyakarta, D.I. Yogyakarta",54
+955,"Surabaya, Jawa Timur",37
+956,"Purwokerto, Jawa Tengah",25
+957,"Bandung, Jawa Barat",60
+958,"Jakarta, DKI Jakarta",44
+959,"Purwokerto, Jawa Tengah",44
+960,"Bandung, Jawa Barat",21
+961,"Bogor, Jawa Barat",60
+962,"Cirebon, Jawa Barat",40
+963,"Bogor, Jawa Barat",55
+964,"Cilegon, Banten",40
+965,"Sukabumi, Jawa Barat",39
+966,"Yogyakarta, D.I. Yogyakarta",50
+967,"Bekasi, Jawa Barat",50
+968,"Tangerang, Banten",46
+969,"Bogor, Jawa Barat",45
+970,"Tangerang, Banten",55
+971,"Bekasi, Jawa Barat",31
+972,"Tangerang, Banten",24
+973,"Solo, Jawa Tengah",59
+974,"Bekasi, Jawa Barat",20
+975,"Depok, Jawa Barat",45
+976,"Solo, Jawa Tengah",30
+977,"Bandung, Jawa Barat",53
+978,"Jakarta, DKI Jakarta",29
+979,"Depok, Jawa Barat",42
+980,"Malang, Jawa Timur",48
+981,"Yogyakarta, D.I. Yogyakarta",23
+982,"Tangerang, Banten",21
+983,"Malang, Jawa Timur",52
+984,"Yogyakarta, D.I. Yogyakarta",43
+985,"Tangerang, Banten",19
+986,"Depok, Jawa Barat",15
+987,"Cirebon, Jawa Barat",51
+988,"Purwokerto, Jawa Tengah",59
+989,"Sukabumi, Jawa Barat",37
+990,"Bogor, Jawa Barat",39
+991,"Cilegon, Banten",15
+992,"Bandung, Jawa Barat",50
+993,"Cilegon, Banten",43
+994,"Tangerang, Banten",24
+995,"Sukabumi, Jawa Barat",33
+996,"Bekasi, Jawa Barat",46
+997,"Cirebon, Jawa Barat",15
+998,"Malang, Jawa Timur",41
+999,"Surabaya, Jawa Timur",58
+1000,"Bogor, Jawa Barat",37
