@@ -1,4 +1,5 @@
-![tur](https://github.com/TourID/Machine-Learning/assets/159881870/a5473d86-829a-445e-a8c4-2c3457e727ca)
+![logo1](https://github.com/TourID/Machine-Learning/assets/159881870/adc444f4-3c33-4a6d-baf5-c5ae6861a752)
+
 
 ## Table Of Contents
 
