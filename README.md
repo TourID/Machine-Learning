@@ -7,7 +7,7 @@ In this project, the ML teams implemented algorithms for tourism place recommend
 ## Feature
 
 ## Dataset
-
+The public dataset we used can be found here (https://www.kaggle.com/code/rafkaip/sistem-rekomendasi-destinasi-wisata-kota-bandung/input?select=tourism_with_id.csv). In addition, we also added a new dataset that includes new users and new ratings to explore tourist destinations based on the place IDs that have ratings from the top 20 user IDs.
 
 # Contact The Developers
 
