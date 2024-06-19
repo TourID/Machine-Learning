@@ -11,7 +11,7 @@ In this project, the ML teams implemented algorithms for tourism place recommend
 Our recommendation system uses the architecture of the Neural Collaborative Filtering model. Neural Collaborative Filtering (NCF) is a modern approach in recommendation systems that uses artificial neural networks to predict user preferences for items. This approach combines traditional collaborative filtering techniques with the power of neural networks to improve recommendation accuracy. The model also implements K-Fold Cross-Validation to ensure the model works well on various subsets of data.
 
 ## Dataset
-The public dataset we used can be found here (https://www.kaggle.com/code/rafkaip/sistem-rekomendasi-destinasi-wisata-kota-bandung/input?select=tourism_with_id.csv). In addition, we also added a new dataset that includes new users and new ratings to explore tourist destinations based on the place IDs that have ratings from the top 20 user IDs.
+The public dataset we used can be found here (https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination). In addition, we also added a new dataset that includes new users and new ratings to explore tourist destinations based on the place IDs that have ratings from the top 20 user IDs.
 
 # Contact The Developers
 
