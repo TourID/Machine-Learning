@@ -18,6 +18,8 @@ The public dataset we used can be found here (https://www.kaggle.com/datasets/ap
 
 | NAME | JOB | Contact
 | ------ | ------ | ----- |
-| Novi Dwi Fitriani  | ML Engineer | <a href="https://github.com/noviidwi"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="vertical-align: middle; width: 20px;"> GitHub</a> |
-| Riska Septyani| ML Engineer |  
-| Deriansyah Aulia Muharram | ML Engineer |  
+| Novi Dwi Fitriani  | ML Engineer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcella) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/marcella) |
+| Riska Septyani| ML Engineer |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcella) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/marcella) |
+| Deriansyah Aulia Muharram | ML Engineer |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcella) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/marcella) |
+
+
