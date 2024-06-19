@@ -18,6 +18,6 @@ The public dataset we used can be found here (https://www.kaggle.com/datasets/ap
 
 | NAME | JOB | Contact
 | ------ | ------ | ----- |
-| Novi Dwi Fitriani  | ML Engineer | <<a href="https://github.com/noviidwi"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"> GitHub</a> |
+| Novi Dwi Fitriani  | ML Engineer | <a href="https://github.com/noviidwi"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"> GitHub</a> |
 | Riska Septyani| ML Engineer |  
 | Deriansyah Aulia Muharram | ML Engineer |  
