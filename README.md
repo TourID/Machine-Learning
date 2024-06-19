@@ -2,6 +2,6 @@
 
 | NAME | JOB |  
 | ------ | ------ | 
-| Novi Dwi Fitriyani | ML Engineer | 
+| Novi Dwi Fitriani | ML Engineer | 
 | Rizka Septyani| ML Engineer |  
 | Deriansyah Aulia Muharramm | ML Engineer |  
